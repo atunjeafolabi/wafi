@@ -16,5 +16,5 @@ Running App
 
 Running Tests
 -------------
-- From the root of the application, run ``./vendor/bin/phpunit Test``. This will run all the tests in the ``Test`` folder
+- From the root of the application, run ``composer test``. This will run all the tests in the ``Test`` folder
 
