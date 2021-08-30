@@ -1,0 +1,21 @@
+{
+    "name": "atunje/wafi",
+    "description": "Wafi Interview",
+    "authors": [
+        {
+            "name": "Atunje",
+            "email": "atunje_afolabi@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wafi\\" : "."
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit Test"
+    }
+}
